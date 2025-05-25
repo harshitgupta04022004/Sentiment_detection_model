@@ -69,11 +69,3 @@ python app.py
 ├── README.md              # Project README
 
 
----
-
-## 🧑‍💻 Author
-
-**Harshit Gupta**
-Contributions welcome! Feel free to fork or open issues.
-
----
